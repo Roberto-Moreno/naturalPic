@@ -1,0 +1,31 @@
+.caja {
+  width: 270px;
+  height: 190px;
+  position: relative;
+  margin: 20px 0px 10px 0px;
+
+}
+
+.caja img {
+  object-fit: cover;
+  width: 100%;
+  position: relative;
+  
+}
+
+.heart {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: white;
+  font-weight: 900;
+}
+.texto_blanco{
+  color:white;
+  font-size: 10pt;
+  font-weight: 900;
+  position: absolute;
+  left: 0; 
+  bottom: 0;
+  text-align: left;
+}

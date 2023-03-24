@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  background-image: url("./assets/img/fondo.jpg");
+  background-size: cover;
+}
+
+.App {
+  font-family: "Maitree", serif;
+  text-align: center;
+  color: #43a047;
+  
+}
+
+h1 {
+  margin-bottom: 0;
+  color: #d35400
+}
+
+.centrado{
+  display: flex;
+  justify-content: center;
+}
+.centrar{
+  margin: 0 auto;
+}
