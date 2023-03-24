@@ -1,3 +1,10 @@
+# git-hub pages
+https://roberto-moreno.github.io/naturalPic/
+
+"Trabajo número 2 * El sistema consiste en una galería de imágenes, que se obtiene a partir de un Json. 
+Al presionar sobre cada foto o sobre el corazón (like) este queda guardado
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
